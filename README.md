@@ -17,7 +17,7 @@
 
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?andydat299=willianrod)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andydat299&layout=compact)
 
